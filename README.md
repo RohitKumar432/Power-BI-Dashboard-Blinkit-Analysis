@@ -1,8 +1,8 @@
-## Blinkit Power BI Dashboard – Detailed Analysis & Description
+# Blinkit Power BI Dashboard – Detailed Analysis & Description
 
 This Power BI dashboard provides an insightful analysis of Blinkit’s grocery sales performance, focusing on total sales, outlet performance, item types, and customer ratings.
 
-# 🔶 Key Metrics & KPIs
+## 🔶 Key Metrics & KPIs
 
 Total Sales: $1.20M
 
@@ -17,7 +17,7 @@ Average Rating: 3.9
 
 The overall customer satisfaction score based on ratings.
 
-# 📊 Dashboard Sections & Insights
+## 📊 Dashboard Sections & Insights
 
 1️⃣ Sales Breakdown by Fat Content
 Regular Items: $776.32K (Higher Sales)
@@ -59,7 +59,7 @@ Supermarket Type3	$130.71K	935	$140	3.91	0.06
 Supermarket Type2	$131.48K	928	$142	3.93	0.06
 🔹 Insight: Supermarket Type 1 has the highest sales and number of items, making it the leading store format.
 
-# 🟢 Conclusion & Recommendations
+## 🟢 Conclusion & Recommendations
 
 🔹 Key Takeaways
 Regular-fat products perform better than low-fat items.
