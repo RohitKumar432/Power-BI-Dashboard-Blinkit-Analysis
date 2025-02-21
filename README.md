@@ -72,3 +72,8 @@ Supermarket Type 1 is the most profitable format due to a wide product variety.
 ✅ Focus expansion on medium-sized outlets in Tier 3 cities for maximum profitability.
 ✅ Improve visibility and promotions for underperforming categories like seafood and breakfast items.
 
+## Dashboard
+
+![Screenshot 2025-02-21 153957](https://github.com/user-attachments/assets/3b67f045-d2ab-45fd-812c-c74c5ed2a58d)
+
+
